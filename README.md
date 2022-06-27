@@ -1,3 +1,3 @@
 # BitCoinTrendAnalysis-PySpark-
 
-Download datasets from kaggle: https://www.kaggle.com/code/sandeepanmukherjee/pyspark-bitcoin-trend-analysis/data
+Download datasets from kaggle: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
